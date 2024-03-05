@@ -1,0 +1,538 @@
+{
+    "user": {
+        "username": "John",
+        "firstName": "John",
+        "lastName": "Doe",
+        "photos": "211",
+        "followers": "15k",
+        "following": "600",
+        "description": "Video Creator",
+        "profileImage": "https://images.unsplash.com/photo-1696179000939-e64c1dd08c9b?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "images": [
+            {
+                "id": "1",
+                "imageUrl": "https://images.unsplash.com/photo-1695653422327-6eabaee1cbec?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "imageDescription": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                "imageLikes": "1.2k"
+             },
+             {
+                "id": "2",
+                "imageUrl": "https://images.unsplash.com/photo-1701752656381-7f9dcf3c36a2?q=80&w=1573&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "imageDescription": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                "imageLikes": "1.5k"
+             },
+             {
+                "id": "3",
+                "imageUrl": "https://images.unsplash.com/photo-1682686581218-82326951f4ad?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "imageDescription": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                "imageLikes": "500"
+             },
+             {
+                "id": "4",
+                "imageUrl": "https://images.unsplash.com/photo-1608132844249-2146649be16a?q=80&w=1588&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "imageDescription": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                "imageLikes": "700"
+             },
+             {
+                "id": "5",
+                "imageUrl": "https://images.unsplash.com/photo-1701551883630-c1b7965744ac?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "imageDescription": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                "imageLikes": "2.2k"
+             },
+             {
+                "id": "6",
+                "imageUrl": "https://images.unsplash.com/photo-1701122399300-fa042c4a175a?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "imageDescription": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                "imageLikes": "3.2k"
+             },
+             {
+                "id": "7",
+                "imageUrl": "https://images.unsplash.com/photo-1700573942183-bbb7bf97a06b?q=80&w=1586&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "imageDescription": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                "imageLikes": "14.2k"
+             }
+        ]
+    },
+    "employeeList": [
+      {
+        "name": "Anish Duwal",
+        "avatar_url": "https://media.licdn.com/dms/image/C4E03AQHxuQGZP-0Ufg/profile-displayphoto-shrink_800_800/0/1517052323483?e=1707955200&v=beta&t=Bgj13tupTYuK2bNSVcEtUwcR_wgnosFcz05epV7eQ1Q",
+        "subtitle": "Co-Founder",
+        "tel": "9841133770",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "anish@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "I am skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Atish Maharjan",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Frontend Developer",
+        "tel": "9866265050",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "atish@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Bajra Manandhar",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Frontend Developer",
+        "tel": "9860809199",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "bajra.manandhar@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Lizen Shakya",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Backend Developer",
+        "tel": "9849673360",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "lizen.shakya@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Prajwol Shrestha",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Backend Developer",
+        "tel": "9843471707",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "prajwal@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Prashant Barahi",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Backend Developer",
+        "tel": "9808645667",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "prashant.barahi@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Sanjeev Khapangi Magar",
+        "avatar_url": "https://media.licdn.com/dms/image/C4E03AQGnss62-s1fLg/profile-displayphoto-shrink_800_800/0/1631207294498?e=1707955200&v=beta&t=zQdsm6i4QAAJ0GhEzcnZl7r29qnSzDCpQWjUt9rBuKs",
+        "subtitle": "Co-Founder",
+        "tel": "9808858267",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "sanjeev@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Sarad Singh",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Frontend Developer",
+        "tel": "9841090732",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "sarad.singh@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Sarthak Bajracharya",
+        "avatar_url": "https://media.licdn.com/dms/image/C5603AQHMv5ROMJkvHw/profile-displayphoto-shrink_800_800/0/1648300161488?e=1707955200&v=beta&t=mYSRLNhnXPcSOjI8JSsg1IJdDZQlyk32J8nHmKIL6_w",
+        "subtitle": "Frontend Developer",
+        "tel": "9861071709",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "sarthak.bajracharya@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Sasankh B.C.",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Co-Founder",
+        "tel": "9841937045",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "yunuj@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Shrawak Bhattarai",
+        "avatar_url": "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+        "subtitle": "Full Stack Developer",
+        "tel": "9861164418",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "shrawak.bhattarai@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Shreejala Tuladhar",
+        "avatar_url": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+        "subtitle": "Frontend Developer",
+        "tel": "9841870298",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "shreejala@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Shristi Joshi",
+        "avatar_url": "https://media.licdn.com/dms/image/D4D03AQF52tcw2xneAQ/profile-displayphoto-shrink_800_800/0/1686120569577?e=1707955200&v=beta&t=Dbqa6T83IBARAyRkBVq9ImN0R6IxuznydXhvLJEuel4",
+        "subtitle": "Frontend Developer",
+        "tel": "9843820715",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "shristi.joshi@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Shuvangi Joshi",
+        "avatar_url": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+        "subtitle": "Project Manager",
+        "tel": "9841557933",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "shuvangi.joshi@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Soniya Shakya",
+        "avatar_url": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+        "subtitle": "HR Manager",
+        "tel": "9842536415",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "soniya.shakya@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      },
+      {
+        "name": "Yunuj Dhakhwa",
+        "avatar_url": "https://media.licdn.com/dms/image/C4E03AQHBjbjoTYITmw/profile-displayphoto-shrink_800_800/0/1656347884195?e=1707955200&v=beta&t=wlKZhzIq57LZdQ5Jup2oKq2uv9_IrMrLwzo1uP5vfa4",
+        "subtitle": "Co-Founder",
+        "tel": "9841937045",
+        "linkedIn": "https://www.linkedin.com/in/anishduwal/?original_referer=https%3A%2F%2Fopencafe%2Eio%2F&originalSubdomain=np",
+        "email": "yunuj@opencafe.io",
+        "skillSet": [
+          "React",
+          "Php",
+          "Javascript",
+          "Typescript",
+          "GitHub",
+          "NextJs"
+        ],
+        "projectWorked": [
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.webp",
+          "https://s.hdnux.com/photos/51/23/24/10827008/4/ratio3x2_1200.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCMw59P_91ACCzI3lJLKolAWVMyOJRXsjjg&usqp=CAU"
+        ],
+        "intro": "We are skilled professionals who design, create, and maintain software applications to meet specific user needs. With expertise in programming languages, algorithms, and problem-solving, we play a crucial role in crafting functional and efficient software solutions. Working collaboratively in teams, we employ our analytical mindset to debug, enhance, and optimize code.",
+        "experience": [
+          "Created responsive user interfaces using React.js, ensuring a seamless and visually appealing web experience.",
+          "Engineered scalable backend systems with Node.js, handling high volumes of data and optimizing performance.",
+          "Developed cross-platform mobile applications using React Native for iOS and Android platforms.",
+          "Collaborated in Agile environments, contributing to sprint planning, stand-ups, and delivering on-time software solutions.",
+          "Designed and optimized SQL databases, enhancing data retrieval efficiency and system performance."
+        ]
+      }
+    ]
+}

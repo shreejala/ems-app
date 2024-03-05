@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809884360162",
+    "project_id": "oc-employee",
+    "storage_bucket": "oc-employee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809884360162:android:0b191ec0fc66d5dad46dbb",
+        "android_client_info": {
+          "package_name": "com.ocemployee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtI94luXhBiZvZ1_cwQBLO_alCpEqEMbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
